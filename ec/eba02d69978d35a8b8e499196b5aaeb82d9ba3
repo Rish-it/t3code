@@ -1,0 +1,21 @@
+apps/server/src/mcp/McpHttpServer.test.ts
+  s_85b80b6dca27a7::t_6becf1f2fa3660 16,23-27,818-912
+apps/server/src/mcp/McpHttpServer.ts
+  s_85b80b6dca27a7::t_01dcbb5cbfd901 24,163
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "eceba02d69978d35a8b8e499196b5aaeb82d9ba3",
+  "prompts": {},
+  "sessions": {
+    "s_85b80b6dca27a7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01a164b9-d9bf-78a3-90b4-6fa1142bbbcd",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
