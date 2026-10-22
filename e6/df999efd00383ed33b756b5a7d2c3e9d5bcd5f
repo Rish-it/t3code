@@ -1,0 +1,31 @@
+apps/server/src/auth/EnvironmentAuth.test.ts
+  s_69d2bea2e258ee::t_f91fe7a40b9ee4 150-156,593-613
+apps/server/src/auth/McpOAuth.test.ts
+  s_85b80b6dca27a7::t_0e26cb93d34808 288-295
+apps/server/src/auth/EnvironmentAuth.ts
+  s_85b80b6dca27a7::t_103743b12eeeed 639,641
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e6df999efd00383ed33b756b5a7d2c3e9d5bcd5f",
+  "prompts": {},
+  "sessions": {
+    "s_69d2bea2e258ee": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a164b9-d9bf-78a3-90b4-6fa1142bbbcd",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    },
+    "s_85b80b6dca27a7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01a164b9-d9bf-78a3-90b4-6fa1142bbbcd",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
