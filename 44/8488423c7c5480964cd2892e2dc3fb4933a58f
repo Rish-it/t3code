@@ -1,0 +1,22 @@
+apps/server/src/project/AgentSessionScanner.test.ts
+  s_d73bb4b44257b1::t_e11b4d42dbc096 898-946
+apps/server/src/project/AgentSessionScanner.ts
+  s_d73bb4b44257b1::t_68f5e6fe2a2449 642-651,673-676,678-679
+  s_d73bb4b44257b1::t_1bd5551134c983 680
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "448488423c7c5480964cd2892e2dc3fb4933a58f",
+  "prompts": {},
+  "sessions": {
+    "s_d73bb4b44257b1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1651a-0716-7631-9d98-358fbcc193e7",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
